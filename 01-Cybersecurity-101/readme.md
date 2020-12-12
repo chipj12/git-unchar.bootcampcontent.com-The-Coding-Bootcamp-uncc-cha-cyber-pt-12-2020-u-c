@@ -103,7 +103,7 @@ These resources are provided as optional, recommended resources to supplement th
 
 This unit's homework assignment can be viewed here: 
 
-- [Security 101 Homework File](../../2-Homework/01-Security-101)
+- [Security 101 Homework File](/../Homework/01-Security-101)
 
 
 ### Looking Forward 
