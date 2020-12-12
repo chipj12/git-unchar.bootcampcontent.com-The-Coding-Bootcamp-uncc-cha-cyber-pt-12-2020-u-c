@@ -47,3 +47,16 @@ git pull
 ```
 'The expected result is' “Already up to date.”
 ![images/4-SuccessfulCommands.png](images/4-SuccessfulCommands.png)
+
+
+
+
+
+
+
+
+## Common Issues
+### Mac's
+'Install developer tools'
+![images/installDevelopertools.png](images/)
+Try this [link](https://mac-how-to.gadgethacks.com/how-to/install-command-line-developer-tools-without-xcode-0168115/#:~:text=%20Install%20the%20Command%20Line%20Developer%20Tools%20Without,the%20Waiting%20Game.%20Now%2C%20you%20just...%20More%20)
