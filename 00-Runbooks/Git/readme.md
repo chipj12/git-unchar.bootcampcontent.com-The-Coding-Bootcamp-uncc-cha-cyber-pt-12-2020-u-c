@@ -4,7 +4,7 @@ Git is a distributed version-control system for tracking changes in any set of f
 
 ### Step 1
 Navigate to out GitLab repository
-![](1-GitLab.png)
+![images/1-GitLab.png](images/1-GitLab.png)
 
 ### Step 2
 Press clone and copy the HTTPS link
