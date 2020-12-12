@@ -16,12 +16,12 @@ ls
 ### Step 2
 
 
-'Windows'
+`Windows`
 ```
 bash vagrant-linux.sh --create
 ```
 
-'Mac'
+`Mac`
 ```
 sudo bash vagrant-linux.sh --create
 ```
