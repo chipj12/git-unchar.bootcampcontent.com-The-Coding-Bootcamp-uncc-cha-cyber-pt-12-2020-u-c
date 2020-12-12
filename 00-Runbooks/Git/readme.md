@@ -8,11 +8,11 @@ Navigate to out GitLab repository
 
 ### Step 2
 Press clone and copy the HTTPS link
-(image2)
+![images/2-cloneLink.png](images/2-cloneLink.png)
 
 ### Step 3
 Start GitBash
-()
+![images/3-BashIcon.png](images/2-BashIcon.png)
 
 ### Step 4
 Enter
@@ -46,3 +46,4 @@ Verify that you have the most recent version of our GitLab repository
 git pull
 ```
 'The expected result is' “Already up to date.”
+![images/4-SuccessfulCommands.png](images/4-SuccessfulCommands.png)
