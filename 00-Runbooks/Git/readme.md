@@ -12,7 +12,7 @@ Press clone and copy the HTTPS link
 
 ### Step 3
 Start GitBash
-![images/3-BashIcon.png](images/2-BashIcon.png)
+![images/3-BashIcon.png](images/3-BashIcon.png)
 
 ### Step 4
 Enter
