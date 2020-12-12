@@ -12,7 +12,7 @@ Verify you're in the right directory
 ```
 ls
 ```
-[images/expectedPath.png](images/expectedPath.png)
+![images/expectedPath.png](images/expectedPath.png)
 ### Step 2
 
 
