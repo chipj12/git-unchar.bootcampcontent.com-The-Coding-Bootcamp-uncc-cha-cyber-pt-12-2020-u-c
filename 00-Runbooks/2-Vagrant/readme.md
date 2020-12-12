@@ -27,9 +27,13 @@ sudo bash vagrant-linux.sh --create
 ![images/1-expectedOutcome.png](images/1-expectedOutcome.png)
 
 
-Common issues:
-Virutalizaion not turned on in the BIOS
+## Common issues:
+## Virutalizaion not turned on in the BIOS
+![images/2-VT-xError.png](images/2-VT-xError.png)
+### What is virtualization?
+Virtualization creates a simulated, or virtual, computing environment as opposed to a physical environment. Virtualization often includes computer-generated versions of hardware, operating systems, storage devices, and more. This allows organizations to partition a single physical computer or server into several virtual machines. Each virtual machine can then interact independently and run different operating systems or applications while sharing the resources of a single host machine.
+
 Read this [documentation](https://helpdeskgeek.com/how-to/enable-virtualization-in-the-bios/)
 
 
-No such directory
+### No such directory
