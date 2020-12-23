@@ -11,7 +11,7 @@ Git is a distributed version-control system for tracking changes in any set of f
 
 * **`git add`** Adds new or changed files in your working directory to the `git` staging area 
 
-* **`**git commit`** If you were to make any changes (add, edit, or delete) commits keep track of your changes. This creates a version history for your repository 
+* **`git commit`** If you were to make any changes (add, edit, or delete) commits keep track of your changes. This creates a version history for your repository 
 
 * **`git push`** Once a commit is ready you can push your changes into production 
 
