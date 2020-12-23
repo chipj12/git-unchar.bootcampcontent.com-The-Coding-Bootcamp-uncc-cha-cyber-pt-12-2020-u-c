@@ -1,7 +1,21 @@
 # GitBash
 ## What is Git?
-Git is a distributed version-control system for tracking changes in any set of files, originally designed for coordinating work among programmers cooperating on source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows 
+Git is a distributed version-control system for tracking changes in any set of files, originally designed for coordinating work among programmers cooperating on source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 
+[Official GitHub Guides](https://guides.github.com/)
+
+**Thor's Definition:** The git command is a tool that checks on versions of a single repository.  
+
+## Primary Commands
+| Command | Description|
+|: ------ | ---------: |
+|`git pull`| The most common command you're going to use is `git pull`. Since we update the GitHub repository every class you'll use `git pull` to download the updated files. The nice thing is that because you are using `git` you'll only download the files that you didn't already have stored locally on your machine.|
+|`git add`| Adds new or changed files in your working directory to the `git` staging area
+|`git commit`| If you were to make any changes (add, edit, or delete) commits keep track of your changes. This creates a version history for your repository|
+|`git push`| Once a commit is ready you can push your changes into production|
+
+
+## Setting up your class repository
 ### Step 1
 Navigate to out GitLab repository
 ![images/1-GitLab.png](images/1-GitLab.png)
