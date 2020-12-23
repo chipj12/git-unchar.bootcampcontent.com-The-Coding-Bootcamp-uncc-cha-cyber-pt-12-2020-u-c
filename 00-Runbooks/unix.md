@@ -3,6 +3,10 @@
 | :------ | :-------: |
 | ls | Show directory contents, lists names of files |
 | cd | Change directory |
+| mv | move |
+| cp | copy |
+| su | switch user |
+
 
 ## Directory Structure
 | Directory | Description |
